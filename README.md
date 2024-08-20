@@ -1,7 +1,5 @@
 # VoiceSnap
-<h1 align="center">
-  <img src="./images/HEAD.png"/>
-</h1>
+
 
 ## Descrição
 
