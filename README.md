@@ -1,5 +1,6 @@
 # VoiceSnap
 
+![logo](https://github.com/SantosGAlves/VoiceSnap/blob/main/Images/HEAD.png)
 
 ## Descrição
 
@@ -39,7 +40,8 @@ O **VoiceSnap** é um aplicativo simples e intuitivo que permite transcrever arq
 
 ## Capturas de Tela
 
-
+![logo](https://github.com/SantosGAlves/VoiceSnap/blob/main/Images/HEAD.png)
+![logo](https://github.com/SantosGAlves/VoiceSnap/blob/main/Images/HEAD.png)
 
 ## Instalação
 
